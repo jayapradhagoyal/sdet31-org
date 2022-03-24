@@ -13,6 +13,7 @@ public class CreateContactTest {
 	public void CreateNumber()
 	{
 		System.out.println("number is created");
+		System.out.println("number is not created");
 	}
 
 }
